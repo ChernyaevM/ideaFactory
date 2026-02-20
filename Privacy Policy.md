@@ -19,8 +19,24 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to email. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+## Use of Third-Party AI Services
+
+The app uses a third-party AI service, DeepSeek, to process text requests that you enter in the "Ideas" feature (or similar section for content generation).
+
+**What is transmitted:**
+
+* **Your request text**: When you use the idea generation feature, the data entered in ideas, comments on ideas, and the text of created tasks are sent to DeepSeek servers for processing and generating a response.
+* **Technical data**: To fulfill the request, technical data such as IP address and session ID, necessary for the API to function, may be transmitted.
+
+**What is NOT transmitted:**
+
+* The app does not transmit your personal data (name, email, contacts, geolocation) along with the request, unless you have independently included them in the idea description, comments on the idea, or in tasks related to the idea.
+* The app does not use the data received from you to train DeepSeek models or for any other purposes beyond directly responding to your request.
+
 ## Third Party Access
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+Additionally, as described in the "Use of Third-Party AI Services" section, the text of your requests is transmitted to DeepSeek for processing. Data processing by DeepSeek is carried out in accordance with the [DeepSeek Privacy Policy](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html). We recommend that you review it for more information.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
